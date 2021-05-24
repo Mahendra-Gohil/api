@@ -1,4 +1,4 @@
-package com.maxfour.music.ads.Events;
+package package com.demo.ads.Events;
 
 public interface AdEventListener {
 

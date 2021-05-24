@@ -1,4 +1,7 @@
-package com.maxfour.music.ads.AdsProviders;
+// For Google Ads PlatForm
+//implementation 'com.google.android.gms:play-services-ads:19.7.0'
+    
+package com.music.ads.AdsProviders;
 
 import android.app.Activity;
 import android.app.ProgressDialog;

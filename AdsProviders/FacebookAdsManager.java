@@ -1,7 +1,7 @@
 // For Facebook Ads PlatForm
 //implementation 'com.facebook.android:audience-network-sdk:6.4.0'
 
-package package com.demo.ads.AdsProviders;
+package com.demo.ads.AdsProviders;
 
 import android.app.ProgressDialog;
 import android.content.Context;

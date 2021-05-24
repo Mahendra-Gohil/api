@@ -1,4 +1,4 @@
-package package com.demo.ads.Events;
+package com.demo.ads.Events;
 
 public interface AdEventListener {
 

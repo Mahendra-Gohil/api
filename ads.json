@@ -2,9 +2,11 @@
 {
   "live_ad": "admob",
   "admob": {
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "native_advance": "ca-app-pub-3940256099942544/2247696110"
+    "app_id": "ca-app-pub-2750800778809761~5821901570",
+    "interstitial": "ca-app-pub-2750800778809761/2812594851",
+    "native_advance": "ca-app-pub-2750800778809761/1691084877",
+    "banner": "ca-app-pub-2750800778809761/8256493228",
+    "app_open": "ca-app-pub-2750800778809761/8064921532"
   },
   "facebook": {
     "interstitial": "",

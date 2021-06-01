@@ -1,0 +1,18 @@
+
+{
+  "live_ad": "admob",
+  "admob": {
+    "app_id": "ca-app-pub-3940256099942544~5821901570",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "native_advance": "ca-app-pub-3940256099942544/2247696110",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "app_open": "ca-app-pub-3940256099942544/3419835294"
+  },
+  "facebook": {
+    "app_id": "765848654125552",
+    "interstitial": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "native_advance": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+    "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+    "native_banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+  }
+}

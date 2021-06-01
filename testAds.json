@@ -10,8 +10,8 @@
   "facebook": {
     "app_id": "765848654125552",
     "interstitial": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "native_advance": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
+    "native_advance": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
     "banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
-    "native_banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID",
+    "native_banner": "IMG_16_9_LINK#YOUR_PLACEMENT_ID"
   }
 }
